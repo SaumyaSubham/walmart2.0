@@ -3,7 +3,7 @@
 Walmart 2.0 is a React-based e-commerce platform offering a seamless shopping experience, secure checkout, and personalized product recommendations. It utilizes machine learning for churn analysis to optimize user engagement.
 
 
-##### Deployed link: [https://retailwave-wsparkathon.netlify.app/](https://retailwave-wsparkathon.netlify.app/)
+##### Deployed link: [https://walmart2-0.vercel.app/](https://walmart2-0.vercel.app/)
 
 ## Table of Contents
 - [Introduction](#introduction)
